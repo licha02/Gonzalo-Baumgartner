@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Bodas",
+    "description": "Música en vivo para hacer de tu boda un momento inolvidable",
+    "features": [
+      "Repertorio personalizado",
+      "Equipo de sonido profesional",
+      "Coordinación con wedding planner"
+    ],
+    "price": "Desde $2,500",
+    "category": "wedding",
+    "duration": "4-6 horas",
+    "order": 1,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Eventos Corporativos",
+    "description": "Entretenimiento profesional para eventos empresariales",
+    "features": [
+      "Música ambiente",
+      "Shows temáticos",
+      "Adaptación al público"
+    ],
+    "price": "Desde $1,800",
+    "category": "corporate",
+    "duration": "2-4 horas",
+    "order": 2,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Fiestas Privadas",
+    "description": "Animación musical para celebraciones íntimas",
+    "features": [
+      "Repertorio variado",
+      "Interacción con invitados",
+      "Flexibilidad horaria"
+    ],
+    "price": "Desde $1,200",
+    "category": "private",
+    "duration": "3-5 horas",
+    "order": 3,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Festivales",
+    "description": "Presentaciones en festivales y eventos masivos",
+    "features": [
+      "Show completo",
+      "Producción técnica",
+      "Experiencia en grandes escenarios"
+    ],
+    "price": "Consultar",
+    "category": "festival",
+    "duration": "45-90 minutos",
+    "order": 4,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  }
+]

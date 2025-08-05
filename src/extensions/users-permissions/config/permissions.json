@@ -1,0 +1,72 @@
+{
+  "band-member": {
+    "controllers": {
+      "band-member": {
+        "find": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        },
+        "findOne": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        }
+      }
+    }
+  },
+  "service": {
+    "controllers": {
+      "service": {
+        "find": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        },
+        "findOne": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        }
+      }
+    }
+  },
+  "timeline-event": {
+    "controllers": {
+      "timeline-event": {
+        "find": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        },
+        "findOne": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        }
+      }
+    }
+  },
+  "contact": {
+    "controllers": {
+      "contact": {
+        "create": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        }
+      }
+    }
+  },
+  "site-setting": {
+    "controllers": {
+      "site-setting": {
+        "find": {
+          "enabled": true,
+          "policy": "",
+          "role": "public"
+        }
+      }
+    }
+  }
+}

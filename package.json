@@ -1,26 +1,31 @@
 {
-  "name": "banda-backend",
+  "name": "gonzalo-baumgartner-backend",
   "private": true,
   "version": "0.1.0",
-  "description": "Backend for Banda Portfolio website",
+  "description": "Strapi backend for Gonzalo Baumgartner band website",
   "scripts": {
     "build": "strapi build",
     "develop": "strapi develop",
     "start": "strapi start",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "deploy:railway": "npm run build && npm start",
+    "deploy:heroku": "npm run build",
+    "seed": "node scripts/seed.js"
   },
   "devDependencies": {},
   "dependencies": {
     "@strapi/strapi": "4.15.5",
     "@strapi/plugin-users-permissions": "4.15.5",
     "@strapi/plugin-i18n": "4.15.5",
+    "@strapi/plugin-upload": "4.15.5",
+    "@strapi/plugin-email": "4.15.5",
     "sqlite3": "5.1.6"
   },
   "author": {
-    "name": "Banda Portfolio"
+    "name": "Gonzalo Baumgartner"
   },
   "strapi": {
-    "uuid": "banda-portfolio-backend"
+    "uuid": "gonzalo-baumgartner-backend"
   },
   "engines": {
     "node": ">=16.0.0 <=20.x.x",

@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2010,
+    "title": "Formación de la banda",
+    "description": "Gonzalo Baumgartner forma la banda con músicos locales, comenzando con presentaciones en bares y cafés.",
+    "order": 1,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "year": 2012,
+    "title": "Primer álbum",
+    "description": "Lanzamiento del primer álbum 'Nuevos Horizontes', grabado en estudios locales.",
+    "order": 2,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "year": 2015,
+    "title": "Gira nacional",
+    "description": "Primera gira por el país, visitando 15 ciudades y consolidando la base de fans.",
+    "order": 3,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "year": 2018,
+    "title": "Reconocimiento internacional",
+    "description": "Participación en festivales internacionales y colaboraciones con artistas extranjeros.",
+    "order": 4,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "year": 2021,
+    "title": "Álbum acústico",
+    "description": "Lanzamiento de 'Unplugged Sessions', explorando sonidos más íntimos y acústicos.",
+    "order": 5,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "year": 2024,
+    "title": "Nueva era digital",
+    "description": "Lanzamiento de la nueva página web y expansión de la presencia digital.",
+    "order": 6,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  }
+]

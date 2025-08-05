@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Gonzalo Baumgartner",
+    "role": "Vocalista Principal",
+    "bio": "Con más de 15 años de experiencia en el escenario, Gonzalo es la voz que define el sonido único de la banda.",
+    "order": 1,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Carlos Mendez",
+    "role": "Guitarrista",
+    "bio": "Virtuoso de la guitarra con influencias de rock clásico y jazz, aporta los riffs más memorables.",
+    "order": 2,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Ana Rodriguez",
+    "role": "Bajista",
+    "bio": "La base rítmica sólida que sostiene cada canción con groove y precisión.",
+    "order": 3,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Miguel Torres",
+    "role": "Baterista",
+    "bio": "El corazón rítmico de la banda, con un estilo dinámico que energiza cada presentación.",
+    "order": 4,
+    "publishedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
